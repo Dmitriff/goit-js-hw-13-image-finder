@@ -26,7 +26,16 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/countdown": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
+    "basiclightbox": "^5.0.4",
     "debounce": "^1.2.1",
-    "notiflix": "^3.0.2"
+    "handlebars": "^4.7.7",
+    "lodash.throttle": "^4.1.1",
+    "notiflix": "^3.0.2",
+    "pnotify": "^5.2.0",
+    "throttle": "^1.0.3",
+    "throttle-debounce": "^3.0.1"
   }
 }
